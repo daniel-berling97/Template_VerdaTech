@@ -28,10 +28,10 @@ Para visualizar a landing page, você pode utilizar a extensão **Live Server** 
 
 ## Tecnologias Utilizadas
 
-- **HTML5**: Estruturação do conteúdo da página.
-- **CSS**: Estilização com Bootstrap e CSS personalizado.
-- **JavaScript**: Interatividade e animações na página.
-- **Bootstrap**: Framework CSS para design responsivo.
+- **HTML5**: Estruturação do conteúdo da página.![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+- **CSS**: Estilização com Bootstrap e CSS personalizado.![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+- **JavaScript**: Interatividade e animações na página.![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+- **Bootstrap**: Framework CSS para design responsivo.![Bootstrap](https://img.shields.io/badge/framework-Bootstrap-blueviolet)
 
 ## Contribuições
 
